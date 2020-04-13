@@ -1,0 +1,157 @@
+
+
+
+ 
+  .img{position: relative;
+       display: inline block;   }  
+       img:hover{background-color: #ccc;}
+  .oneh{color:rgba(12, 6, 6, 0.74); ;
+     position: absolute;
+           text-align:center; top: 30%;
+           left: 50%;
+           transform: translate(-50%, -50%);} 
+  .thirdh{color:rgba(7, 6, 6, 0.842);  
+    position: absolute;
+    text-align:center; top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);}   
+                   
+  .twoh{background-color:black;
+    text-align: center;
+    display: block;
+    text-align: center;
+    padding: 15px;
+    text-decoration: none;
+    border: groove;  
+  color: #ccc;                             }
+
+    h2:hover{
+      background-color: darkgray;
+    }
+.second{position: absolute;
+  text-align:center; top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+ text-size-adjust: 100%;
+display:block;
+ background-color: rgba(255, 0, 0, 0.849); 
+ border: 2px solid rgba(255, 0, 0, 0.849);
+ border-radius: 5px;
+   padding: 8px;                                      }
+.second:hover{background-color:whitesmoke;}
+
+
+.menu{
+    list-style-type: none;
+    overflow: hidden;
+    background-color:black;
+    border: groove;
+  }
+  
+ li {
+    float: right;
+  }
+  
+   li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #ddd7d7;
+  }
+  div.gallery {
+    text-align: center;
+    margin: 50px;
+    border: 5px solid #ccc;
+    float: left;
+    width: 250px;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #746468;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: 250px;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+
+
+
+
+
+.imageA{
+  position: relative;
+  display: inline block;   }  
+  .imageA:hover{background-color: #ccc;}
+
+                                     
+
+
+
+
+
+
+
+.formA{background-color:rgb(160, 220, 243);
+  display:block;
+  position: absolute;
+       top:142%;
+      left: 47%  ;                  }
+
+
+
+
+.container{
+  display: ruby;
+  padding: 20px;
+  margin: auto;
+  align-content: center;
+  box align-self: start;;
+  background-attachment: fixed;
+  background-color:rgb(160, 220, 243);
+   display:block;
+  position: absolute;
+  text-align:center; top:171%;
+  left: 60%;
+  transform: translate(-50%, -50%);}
+
+  
+  
+
+
+
+
+
+
+
+
+.footer {
+    position:inherit;
+    left: 0;
+    bottom: 5px;
+    width: 100%;
+    background-color:black;
+    color: white;
+    text-align: center;
+     padding: 15px;                       }
+
+
+div .footerl{
+  float: left;
+  padding: 50px;
+  
+}
+
+
+
+
